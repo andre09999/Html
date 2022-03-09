@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+p{
+    text-indent: 30px;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+}
+h2{
+   background-color: aliceblue; 
+}

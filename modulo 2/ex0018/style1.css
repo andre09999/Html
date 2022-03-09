@@ -1,0 +1,9 @@
+@font-face{
+ font-family: 'Love' ;
+src: url('love larry ttf.ttf') format('truetype');
+}
+h1{
+    font-family: 'Love','Times New Roman', Times, serif;
+    font-size: 3em;
+    font-weight: lighter;
+}
