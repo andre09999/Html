@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
+
+*{
+    margin: 0px;
+    font-size: 1.2em;
+}
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    min-height: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    
+}
+header > h1{
+    padding: 10px;
+    font-size: 10vw;
+    font-family: 'Passion One', cursive;
+    font-weight: normal;
+}
+header > p > a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: underline;
+}
+div{
+    text-align: left;
+    min-height: 320px;
+}
+div > p{
+    
+  
+   font-family: 'Sriracha', cursive;
+    padding-left: 30px;
+}
+.branco{
+    background-color: white;
+    height: auto;
+    
+}
+.foto1{
+    background-image: url(imagens/background001.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.foto{
+    background-image: url(imagens/background002.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    
+}
+.vidro{
+    background: rgba(255.255.255.0.35);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.219);
+    backdrop-filter: blur(13.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255.255.255.0.18);
+    color: white;
+    max-width: 57%;
+
+}
