@@ -2,7 +2,7 @@
 
 *{
     margin: 0px;
-    font-size: 1.2em;
+    font-size: 2.5vw;
 }
 header{
     text-align: center;
@@ -66,12 +66,16 @@ footer{
     color: white;
     text-align: center;
     padding: 5px;
-    font-size: 14px;
+    
    
 }
 footer > p >a{
  text-decoration: none;
  color: white;  
+ font-size: 14px;
+}
+footer>p{
+    font-size: 14px;
 }
 .vidro{
     background: rgba(255.255.255.0.35);
